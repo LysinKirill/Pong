@@ -131,6 +131,12 @@ public class Main extends JComponent implements KeyListener, ActionListener, Com
         /// GAME CYCLE
         while(true){
 
+            System.out.println("AMOGUS");
+            System.out.println("AMOGUS");
+            System.out.println("AMOGUS");
+            System.out.println("AMOGUS");
+            System.out.println("AMOGUS");
+            System.out.println("AMOGUS");
             Main.controls();
 
             //System.out.println(timeRate);
